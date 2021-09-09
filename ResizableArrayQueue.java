@@ -1,4 +1,6 @@
-    /** DESCRIBE PROGRAM HERE */
+    /** This is a queue implemented using an array.
+ *  The queue is First-In-First-Out with only char's available.
+ */
     public class ResizableArrayQueue {
         private int[] store;
         private int storeLength;

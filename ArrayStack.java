@@ -1,4 +1,6 @@
-/** DESCRIBE THE PROGRAM HERE. */
+/** This is a stack implemented using an array.
+ *  The stack is First-In-Last-Out with only char's available.
+ */
 public class ArrayStack {
     private char[] store;
     private char storeLength;
