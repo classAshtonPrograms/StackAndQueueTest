@@ -85,8 +85,8 @@ public class Project2{
      */
     public static void testPeek(ArrayStack driverArrayStack) {
         String methodDescription = "The top variable of an ArrayStack will be viewed with the peek method.";
-        String passStatement = "20 was found so the peek passed. The second push was successful.\n";
-        String failStatement = "20 was not found so the peek failed. The second push was not successful.\n";
+        String passStatement = "'a' was found so the peek passed. The second push was successful.\n";
+        String failStatement = "'a' was not found so the peek failed. The second push was not successful.\n";
         
         System.out.println(methodDescription);
 
